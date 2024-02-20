@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
         fontSize:48,
         color:"#FF0043",
         fontWeight:"bold",
+        marginBottom:10
     },
 
     information:{
@@ -34,6 +35,7 @@ const styles = StyleSheet.create({
         width: "100%",
         alignItems: "center",
         marginBottom: 10,
+        marginTop:10
     },
     shared:{
         backgroundColor: "#1877f2",
